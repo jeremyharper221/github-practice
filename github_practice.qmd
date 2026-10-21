@@ -53,3 +53,12 @@ format:
       output: console
 ---
 
+```{r}
+list.files()
+list.files("data")
+```
+
+
+:::{callout-tip}
+🗣 The first command shows files and folders in the project folder. The second command checks what is inside the data folder.
+:::

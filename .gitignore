@@ -1,0 +1,9 @@
+# RStudio Files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+
+# Private Data
+data/
