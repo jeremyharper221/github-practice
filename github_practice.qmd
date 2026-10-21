@@ -1,0 +1,55 @@
+---
+title: "github_practice"
+author: 
+  name: j Harper
+  email: jeremyharper221@u.boisestate.edu
+date: today
+lang: en
+license: CC BY-NC-SA
+copyright:
+    holder: j Harper
+    year: 2026
+keywords: [Data-R, "155", Practice, Chapter 9, Advanced Content, Git, GitHub, Version Control]
+pagetitle: "Data-R 155: Git & GitHub Practice"
+
+filters:
+  - collapse-output
+
+# Execution Details
+execute:
+  error: true
+  cache: true
+  keep-md: true
+
+# Document Structure & Global Formatting
+toc: true
+toc-title: Contents
+toc-depth: 3
+number-sections: true
+number-depth: 3
+
+
+# Html specific formatting options
+format:
+  html:
+    theme: pulse
+    css: ../data_analysis_notebook.css
+    embed-resources: true
+    code-fold: true
+    code-summary: "View code"
+    code-tools: true
+    code-overflow: wrap
+    highlight-style: atom-one
+    code-line-numbers: true
+    code-block-border-left: "#007bff"
+    link-external-newwindow: true
+    link-external-icon: true
+    smooth-scroll: true
+    respect-user-color-theme: true
+    html-math-method: mathml
+    title-block-banner: true
+    axe:
+      #output: document
+      output: console
+---
+
